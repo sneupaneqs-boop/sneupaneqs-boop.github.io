@@ -19,6 +19,9 @@ Research cut-off 2026-10-23. **Status key:** ✔ = supported by a source fetched
 | 13 | Intellectual property on customer artwork and logos | Contract | Obtain written confirmation that the customer owns or may use the logo. Keep proofs and signed approvals. | NPR 0 | ⚠ | Use the terms below |
 | 14 | Contracts, deposits, rejected orders | Contract | See template terms below. | NPR 0 | ⚠ | Have a lawyer review once |
 
+| 15 | E-commerce registration (added v2) | Dept. of Commerce, Supplies and Consumer Protection | E-commerce Act 2025: sellers on Facebook, Instagram, TikTok or WhatsApp must register. Fines up to NPR 2,00,000 (Jul 2025 report). | Not verified | ✔ (news) | https://kathmandupost.com/money/2025/07/20/unregistered-online-sellers-now-illegal-in-nepal-under-new-e-commerce-law |
+| 16 | Import of short-run packaging from India (added v2) | Dept. of Customs | HS 4819 duty not confirmed. The FY 2083/84 budget cut customs slabs from 11 to 7. Import VAT is 13% on value plus duty. SAARC preferential rate may apply with a certificate of origin. | Clearing agent fee unknown | ⚠ | https://www.customsnepal.com/faq; get a clearing agent's written quote |
+
 ## Standard order terms to adopt (draft, not legal advice)
 - Quote valid 7 days. Work starts on a **50% deposit** and written artwork approval.
 - Customer is responsible for spelling, logo rights and colour approval on the signed proof.

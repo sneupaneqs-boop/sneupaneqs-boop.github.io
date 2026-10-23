@@ -4,6 +4,8 @@ Research cut-off 2026-10-23. Verdict: **CONDITIONAL GO. Launch a staged pilot (M
 
 The evidence base is weak. No supplier quotation was obtained, no customer was interviewed, and no market size could be verified. Every number below that drives profit is an assumption (confidence Low) and is flagged as such in the workbook.
 
+> **Revision v2 (2026-10-23):** the verdict stands (CONDITIONAL GO). The recommended *way* to execute is now `14_business_strategy.md`: launch with the T1 Brand Starter Kit and T4 design packages; send short runs to pooled Indian digital printing only after a written duty quote; use the strategy capital plan (set-up NPR 2.15 lakh, operating cash NPR 2.35 lakh, contingency NPR 50,000; no premises deposit until 15 active customers). Strategy base break-even is about NPR 87,000/month of sales (5–6 orders) before founder pay, or about NPR 1.36 lakh with NPR 15,000 founder pay. Stop-loss rules below are unchanged. Audit corrections to v1 numbers are in `13_audit_report.md` §2.
+
 ## Answers to the 17 decision questions
 
 1. **Enough demand?** Probably yes for a small business, but unproven. Local printed bakery boxes and stock boxes are sold (Atlas, Box House) [Low–Medium], and the plastic-bag ban favours paper bags [Medium]. No count of Valley prospects was verified. The Base case needs about 44 paying customers in 12 months.
