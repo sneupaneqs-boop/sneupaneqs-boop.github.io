@@ -1,0 +1,22 @@
+Claim_ID,Claim,Value,Unit,Source_URL,Source_Date,Access_Date,Evidence_Type,Confidence,Assumptions,Verification_Status
+E01,NRB USD selling rate,155.08,NPR/USD,https://www.sharesansar.com/newsdetail/nrb-publishes-mondays-forex-rates-us-dollar-fixed-at-rs-15508-2026-10-12,2026-10-12,2026-10-23,News report of NRB rates,High,Rate may have moved since,Verified via search result
+E02,NRB INR selling rate (per 100 INR),160.15,NPR/100 INR,same as E01,2026-10-12,2026-10-23,News report of NRB rates,High,Used for all INR conversions,Verified via search result
+E03,VAT registration threshold - goods,5000000,NPR/yr,https://udhamsathi.com/blog/vat-registration-nepal,BS 2083-06-13,2026-10-23,Secondary legal guide citing VAT Act 2052 & Finance Act 2081,Medium,Turnover measured by higher of purchases/sales per source,Needs IRD confirmation
+E04,VAT registration threshold - services/mixed,3000000,NPR/yr,same as E03,BS 2083-06-13,2026-10-23,Secondary,Medium,"Raised from 2,000,000 on 28 May 2024",Needs IRD confirmation
+E05,VAT standard rate,13,%,same as E03,BS 2083-06-13,2026-10-23,Secondary,Medium,FY2083/84 allows multiple rates up to 13% by notice,Needs IRD confirmation
+E06,PAN required before VAT registration,yes,-,same as E03,BS 2083-06-13,2026-10-23,Secondary,Medium,,Needs IRD confirmation
+E07,"Ban on plastic bags below 40 microns in force by Gazette notice (Environment Protection Act 2019 s.15); fine up to NPR 300,000",40,micron,https://thehimalayantimes.com/nepal/ban-on-plastic-bags-below-40-micron-comes-into-effect-nationwide,date not retained,2026-10-23,News report,Medium,Enforcement historically weak per onlinekhabar,Verify current status with MoFE/municipality
+E08,Box House Nepal pastry box price,10,NPR,https://boxhousenepal.com.np/,n/a,2026-10-23,Supplier website (listed sale price),Medium,Unit not stated on page,Directly fetched
+E09,Box House Nepal 2lb cake box price,35,NPR,same,n/a,2026-10-23,Supplier website,Medium,,Directly fetched
+E10,Box House Nepal 10in pizza box x50,1249,NPR/pack of 50,same,n/a,2026-10-23,Supplier website,Medium,,Directly fetched
+E11,Box House Nepal 12in pizza box,20,NPR,same,n/a,2026-10-23,Supplier website,Medium,Unit not stated,Directly fetched
+E12,Roland GS2-24 cutting plotter advertised,119000,INR,https://m.indiamart.com/proddetail/digital-plotter-printer-15957722430.html,n/a,2026-10-23,Marketplace listing via search snippet,Low,Attribution of price to this exact URL unverified,Not page-verified
+E13,Radium cutting plotter advertised,127000,INR,https://m.indiamart.com/proddetail/plotter-printer-20127469462.html,n/a,2026-10-23,Marketplace listing,Low,,Snippet only
+E14,Sticker cutting machine advertised (C Press),150000,INR,https://m.indiamart.com/cpress-chennai/die-cutting-machine.html,n/a,2026-10-23,Marketplace listing,Low,,Snippet only
+E15,Digital sticker half-cutter advertised (C Press),450000,INR,same,n/a,2026-10-23,Marketplace listing,Low,,Snippet only
+E16,Sticker half-cutter / servo label cutter advertised,115000 / 190000,INR,https://m.indiamart.com/digitalprint-solutions/label-cutters.html,n/a,2026-10-23,Marketplace listing,Low,Per-item attribution unverified,Snippet only
+E17,Used Epson T3130n plotter advertised,95000,INR,IndiaMART via search,n/a,2026-10-23,Marketplace listing,Low,,Snippet only
+E18,India is main paper-bag supplier to Nepal (2023); volumes masked,qualitative,-,https://indexbox.co.uk/store/nepal-sacks-and-bags-of-paper-market-analysis-forecast-size-trends-and-insights/,2023,2026-10-23,Paid-report teaser,Low,Numbers hidden,No market size obtained
+E19,Atlas Packaging supplies custom printed cake boxes to Valley bakeries,qualitative,-,https://www.facebook.com/atlaspackagingpvtltd/,n/a,2026-10-23,Social page via snippet,Low,,Snippet only
+E20,"All supplier costs, selling prices, order value, reorder rate, funnel, opex",see workbook,NPR,08_financial_model.xlsx Assumptions,n/a,2026-10-23,Analyst assumption,Low,No RFQ obtained,UNVERIFIED - must be replaced by quotes
+E21,"No verified Kathmandu sticker/label printer, rigid-box specialist or paper-bag printing factory found by search",absence of evidence,-,web searches 2026-10-23,n/a,2026-10-23,Search result gap,Low,Absence in a limited US-only search tool is not evidence of absence,Field survey needed
