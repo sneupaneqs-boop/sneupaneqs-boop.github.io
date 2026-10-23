@@ -3,6 +3,7 @@
 Research cut-off: **2026-10-23**. All money is in NPR. FX used: NPR 160.15 per 100 INR and NPR 155.08 per USD (NRB selling rates, 12 Oct 2026).
 
 > **Revision v2 (2026-10-23, after audit and strategy work):** see `13_audit_report.md`, `14_business_strategy.md`, `15_strategy_model.xlsx`.
+>
 > - Audit fixed 4 high-severity model defects (design time double-counted, unrecoverable VAT missing, simple-average AOV, unbenchmarked prices). Corrected v1 Base: contribution margin 20.3%, break-even NPR 1.60 lakh/month before founder pay (6 orders), min cash −NPR 21,949 with founder pay. It is still marginal.
 > - **New recommended strategy:** a small-run packaging studio with an offer ladder (Starter Kit stock box + custom sticker → short-run digital → bulk), short runs sourced from Indian digital printers in pooled monthly imports, home office, 3PL delivery at NPR 80, gang-run stickers, and logistics-partner channels. Strategy base: contribution margin 30.9%, operating profit after founder pay +NPR 3.44 lakh, minimum cash +NPR 2.04 lakh. Conservative (same customers as v1): +NPR 1.03 lakh. Stress: solvent. Severe: fails.
 > - The verdict is unchanged: **conditional go, staged pilot, no machinery**. The numbers below are v1 and are superseded where they conflict.
